@@ -1,0 +1,1 @@
+g++  coolstripe.cpp leynet.cpp -fpermissive -lpthread  -Wno-narrowing -ldl -o coolstripe -O3 -lX11
